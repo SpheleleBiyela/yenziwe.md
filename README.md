@@ -12,7 +12,7 @@ Welcome to my digital portfolio for PRP370S (Project Presentation 3). This portf
   
  📂 **[View attached summaries of the day](https://github.com/SpheleleBiyela/yenziwe.md)**
 
- 📂 **[View attached summaries of the day](https://github.com/SpheleleBiyela/yenziwe.md/edit/main/README.md)**
+ 📂 **[View attached summaries of the day](https://github.com/SpheleleBiyela/yenziwe.md)**
  
 
 ### 🧠 Reflection (STAR)
