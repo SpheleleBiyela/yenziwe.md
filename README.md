@@ -73,8 +73,6 @@ Welcome to my digital portfolio for PRP370S (Project Presentation 3). This portf
 **Action:** Used Markdown to create a neat, readable CV.  
 **Result:** Created a reusable, web-friendly resume.
 
-📂 **[View CV](https://github.com/SpheleleBiyela/yenziwe.md)** 
-
 ---
 
 ## 📬 CV Submission
