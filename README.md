@@ -46,7 +46,6 @@ Welcome to my digital portfolio for PRP370S (Project Presentation 3). This portf
 - Completed a personality profile via [tool used, e.g., 16Personalities].
 - My profile: [e.g., INTJ – “Architect”]
 
-
 📂 **[View Ny Personality Assessment](https://github.com/SpheleleBiyela/yenziwe.md)** 
 
 ### 🧠 Reflection (STAR)
