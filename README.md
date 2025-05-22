@@ -30,7 +30,7 @@ Welcome to my digital portfolio for PRP370S (Project Presentation 3). This portf
 - Skills: `Entrepreneurship`, `HTML`, `Networking`, `Git`, `Team Collaboration`
 - Interests: Cybersecurity, mobile development, and tech education
   
-📂 **[View My Personality Assessment](https://github.com/SpheleleBiyela/yenziwe.md)** 
+📂 **[View My Entrepreneurship Certificate](https://github.com/SpheleleBiyela/yenziwe.md)** 
 
 ### 🧠 Reflection (STAR)
 
