@@ -9,6 +9,7 @@ Welcome to my digital portfolio for PRP370S (Project Presentation 3). This portf
 ### 📄 Evidence
 - Participated in the Career Guidance Workshop which was held at Varsity College, May 2025.
 - Completed career aptitude and interest surveys.
+  
  📂 **[View attached summaries of the day](https://github.com/SpheleleBiyela/yenziwe.md)** 
 
 ### 🧠 Reflection (STAR)
