@@ -90,7 +90,7 @@ Welcome to my digital portfolio for PRP370S (Project Presentation 3). This portf
 
 ## 🔗 Links & Contact
 
-- 💼 GitHub: [https://github.com/yourusername](https://github.com/yourusername)
+- 💼 GitHub: [https://github.com/SpheleleBiyela/yenziwe.md](https://github.com/SpheleleBiyela/yenziwe.md)
 - 📧 Email: biyelayenziwe@gmail.com
 - 🖇️ LinkedIn: www.linkedin.com/in/yenziwe-biyela-72043b272
 
