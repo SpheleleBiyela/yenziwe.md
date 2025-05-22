@@ -7,9 +7,9 @@ Welcome to my digital portfolio for PRP370S (Project Presentation 3). This portf
 ## 🧭 Career Counselling
 
 ### 📄 Evidence
-- Participated in the CPUT Career Guidance Workshop, May 2025.
+- Participated in the Career Guidance Workshop which was held at Varsity College, May 2025.
 - Completed career aptitude and interest surveys.
-- [Attach screenshots, documents or summaries here]
+ 📂 **[View attached summaries of the day](https://github.com/SpheleleBiyela/yenziwe.md)** 
 
 ### 🧠 Reflection (STAR)
 
@@ -65,7 +65,7 @@ Welcome to my digital portfolio for PRP370S (Project Presentation 3). This portf
 **Action:** Used Markdown to create a neat, readable CV.  
 **Result:** Created a reusable, web-friendly resume.
 
-📂 **[View CV](https://github.com/SpheleleBiyela/yenziwe.md)** *(Make sure to create and link to a `CV.md` file in your repo)*
+📂 **[View CV](https://github.com/SpheleleBiyela/yenziwe.md)** 
 
 ---
 
@@ -95,5 +95,5 @@ Welcome to my digital portfolio for PRP370S (Project Presentation 3). This portf
 > _“Strive not to be a success, but rather to be of value.” – Albert Einstein_
 
 
-[View CV](https://github.com/SpheleleBiyela/yenziwe.md)
+
 
