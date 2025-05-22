@@ -62,6 +62,9 @@ Welcome to my digital portfolio for PRP370S (Project Presentation 3). This portf
 - CV written and structured using Markdown.
 - Includes education, skills, certifications, and work/volunteer experience.
 
+📂 **[View CV](https://github.com/SpheleleBiyela/yenziwe.md)** 
+
+
 ### 🧠 Reflection (STAR)
 
 **Situation:** Required a professional CV for job applications.  
