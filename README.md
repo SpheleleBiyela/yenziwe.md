@@ -78,7 +78,7 @@ Welcome to my digital portfolio for PRP370S (Project Presentation 3). This portf
 ### 📄 Evidence
 - Submitted my CV to various platforms (Careers 24).
 
-📂 **[View CV]()** 
+📂 **[View CV](https://github.com/SpheleleBiyela/yenziwe.md)** 
 
 ### 🧠 Reflection (STAR)
 
