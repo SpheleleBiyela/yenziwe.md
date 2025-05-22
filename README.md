@@ -76,8 +76,9 @@ Welcome to my digital portfolio for PRP370S (Project Presentation 3). This portf
 ## 📬 CV Submission
 
 ### 📄 Evidence
-- Submitted my CV to various platforms (e.g., LinkedIn, Indeed).
-- Attached evidence of one application (screenshot or link).
+- Submitted my CV to various platforms (Careers 24).
+
+📂 **[View CV]()** 
 
 ### 🧠 Reflection (STAR)
 
